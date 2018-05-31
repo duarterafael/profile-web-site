@@ -10,10 +10,10 @@
     </div>
     <hr>
     <div class="home-page__about">
-        
-        <p Hey, I’m a software developer from in <a href="https://pt.wikipedia.org/wiki/Recife">Recife</a>, Brazil. 
-            I'm fascinated by new technologies.  Know a little about  
-            <a href="my_history.php" rel="nofollow" target="_blank" title="Know a little about my history">my history</a>. 
-           Have a look through some of  <a href="my_projects.php" rel="nofollow" target="_blank" title="Have a look my projects">my projects</a> and 
-            <a href="pasts_jobs.php" rel="nofollow" target="_blank" title="and my pasts jobs">pasts jobs</a>.If you like something, please contact me.</p>
+        <p>Hey, I’m a software developer from 
+        <a href="https://pt.wikipedia.org/wiki/Recife" target="_blank" >Recife</a>, 
+        <a href="https://pt.wikipedia.org/wiki/Brazil" target="_blank" >Brazil.</a>
+        I'm fascinated by new technologies.  Know a little about my history. 
+        Have a look through some of my projects and pasts jobs. If you like something, please contact me.
+        </p>
     </div>  
