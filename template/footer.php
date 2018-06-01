@@ -1,4 +1,5 @@
-<footer class="page-footer font-small stylish-color-dark pt-4 mt-4">
+<footer 
+class="footer page-footer font-small stylish-color-dark pt-4 mt-4">
 
   <div class="container text-center text-md-left">
 

@@ -1,54 +1,87 @@
-<h1>
-Assim mesmo, o surgimento do comércio virtual promove a alavancagem do impacto na agilidade decisória. O incentivo ao avanço tecnológico, assim como a consulta aos diversos militantes cumpre um papel essencial na formulação das diretrizes de desenvolvimento para o futuro. Caros amigos, a contínua expansão de nossa atividade oferece uma interessante oportunidade para verificação dos relacionamentos verticais entre as hierarquias. Acima de tudo, é fundamental ressaltar que a estrutura atual da organização desafia a capacidade de equalização do retorno esperado a longo prazo. 
+<div class="row my-row">
+    <div class="col-md-2" >
+        <img class="logo" style="width: 200px;" src="img/ecomp-logo.jpg" alt="university of pernambuco">
+    </div>
+    <div style='margin-left: 6%; text-align: justify;' class="col-md-9">
+        <a href="http://www.ecomp.poli.br/" target="_blank"><h1 class="profile-card__subtitle">MSc in Computer Engineering (2013 - 2015)</h1></a>
+        <p>
+            My research consists a <a href="https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=2633208#" target="_blank">method</a> 
+            and a  <a href="https://youtu.be/2F0OCGFMRr0" target="_blank">tool</a> <a href="https://github.com/duarterafael/Conformitate" rel="nofollow" target="_blank" title="Look through my Github profile">
+                <i class="fa fa-github" aria-hidden="true"></i>
+                
+            </a> to evaluate the lack of conformity between the conceptual model 
+           (class diagram) and the business process model (BPMN diagram) of an information system.</a>
+        </p>
+        <a href="http://www.contecsi.fea.usp.br/envio/index.php/contecsi/13CONTECSI/paper/view/4158" target="_blank">
+        MENDES, R. G. ; SILVEIRA, D. S. ; DUARTE, R. B. . Um Método para Extração da Carta de Serviços ao 
+        Cidadão a partir dos Processos de Negócios. In: 13º CONTECSI - International Conference on Information 
+        Systems and Technology Management, 2016, São Paulo. International Conference on Information Systems and 
+        Technology Management - CONTECSI, 2016.</a>
+        <br>
+        <br> 
+        <a href="http://ieeexplore.ieee.org/abstract/document/7549295/?section=abstract" target="_blank">
+            Duarte, Rafael; SILVA DA SILVEIRA, DENIS ; ARAUJO, JOAO ; WANDERLEY, FERNANDO . 
+            Towards a non-conformity detection method between conceptual and business process models. 
+            In: 2016 IEEE Tenth International Conference on Research Challenges in Information Science (RCIS), 2016, Grenoble. 2016 IEEE Tenth International Conference on Research Challenges in Information Science (RCIS), 2016. p. 1.</a>
+        <br>
+        <br>
+        <a href="http://capsi.apsi.pt/index.php/capsi/article/view/426/399" target="_blank">
+          DUARTE, R. B.; SILVEIRA, D. S. ; WANDERLEY, F. . 
+          Um Método para Identificar a Não Conformidade entre os Modelos de Processos de Negócio e o Conceitual de Informação. 
+          In: Conferência da Associação Portuguesa de Sistemas de Informação, 2015, Lisboa. 15a Conferência da Associação Portuguesa de Sistemas de Informação - CAPSI, 2015.</a>
+        <br>
+        <br> 
+        <a href="https://drive.google.com/file/d/0B5Rj9wTh25ufN3dpT1JxX1NQUXQzZGtrV1NORW51N3d5M1Nj/view" target="_blank"> 
+         DUARTE, R. B.; SILVEIRA, D. S. . Um Método para Verificar a Conformidade entre os Modelos 
+         de Processos de Negócio e o Conceitual de Informação. In: MOSTRA DE EXTENSÃO, INOVAÇÃO E 
+         PESQUISA POLI/UPE, 2014, Recife. Mostra de Extensão, Inovação e Pesquisa ? POLI/UPE, 2014.</a>
+        <br>
+        <br> 
+        <a href="http://toc.proceedings.com/27572webtoc.pdf" target="_blank">
+        MELO, J. A. S. ; DUARTE, R. B. ; LENCASTRE, M. ; FERNANDES, B. J. T. ; ALENCAR, F. M. R. . 
+        Definition of Service - A Systematic Review of the Literature. In: 13th International Conference WWW/Internet, 2014, 
+        Porto. IADIS International Conference WWW/Internet, 2014. p. 219-226.</a>
 
-Do mesmo modo, o início da atividade geral de formação de atitudes prepara-nos para enfrentar situações atípicas decorrentes dos procedimentos normalmente adotados. Por conseguinte, a consolidação das estruturas exige a precisão e a definição dos conhecimentos estratégicos para atingir a excelência. Nunca é demais lembrar o peso e o significado destes problemas, uma vez que a constante divulgação das informações garante a contribuição de um grupo importante na determinação dos paradigmas corporativos. 
+    </div>
 
-As experiências acumuladas demonstram que a crescente influência da mídia estimula a padronização do levantamento das variáveis envolvidas. É claro que a determinação clara de objetivos é uma das consequências das formas de ação. No entanto, não podemos esquecer que o novo modelo estrutural aqui preconizado apresenta tendências no sentido de aprovar a manutenção do sistema de formação de quadros que corresponde às necessidades. 
+</div>
+<div class="row my-row">
+    <div class="col-md-2">
+        <img class="logo" src="img/cesar-edu-logo.png" alt="cesar edu logo">
+    </div>
+    <div style='margin-left: 6%; text-align: justify;' class="col-md-9">
+        <a href="http://www.cesar.edu.br/"><h1 class="profile-card__subtitle">Postgraduate in Smart Web Solutions and Services (2012 - 2013)</h1></a>
+        <p>
+            In this the postgraduate course I learned web technologies. Having my course completion work accepted in the 
+            <a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33604">Workshop on Requirements Engineering</a>.
+        </p>
+        <a href="http://wer.inf.puc-rio.br/WERpapers/pdf_counter.lua?wer=WER14&file_name=paper36.pdf" target="_blank">DUARTE, R. B.; JUNIOR, J. ; ARAUJO, R. ; WANDERLEY, F. ; LENCASTRE, M. . 
+            Uma Abordagem Colaborativa de Modelagem Conceitual de Informação utilizando Mind Maps. 
+            In: WER14 - Workshop em Engenharia de Requisitos, 2014, Pucón. Workshop em Engenharia de Requisitos, 2014.</a>
+    </div>
 
-Não obstante, o desafiador cenário globalizado agrega valor ao estabelecimento do fluxo de informações. Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a adoção de políticas descentralizadoras pode nos levar a considerar a reestruturação do remanejamento dos quadros funcionais. Percebemos, cada vez mais, que a execução dos pontos do programa obstaculiza a apreciação da importância do processo de comunicação como um todo. O que temos que ter sempre em mente é que o entendimento das metas propostas estende o alcance e a importância dos métodos utilizados na avaliação de resultados. 
+</div>
+<div class="row my-row">
+    <div class="col-md-2">
+        <img class="logo" src="img/Bada_Logo.png" alt="samsung bada logo">
+    </div>
+    <div style='margin-left: 6%; text-align: justify;' class="col-md-9">
+        <a href="http://anpei.org.br/anpeinews/cesar-e-samsung-lancam-programa-de-residencia-2/" target="_blank"><h1 class="profile-card__subtitle">Bada residence (2010 - 2011)</h1></a>
+        <p>
+            The Bada residence consists of agreement between the <a href="http://www.cesar.edu.br/" target="_blank">C.E.S.A.R Edu</a> 
+            and Samsung with the purpose of popular its virtual store.
+        </p>
 
-Ainda assim, existem dúvidas a respeito de como a expansão dos mercados mundiais nos obriga à análise de todos os recursos funcionais envolvidos. No mundo atual, a complexidade dos estudos efetuados maximiza as possibilidades por conta dos níveis de motivação departamental. O empenho em analisar o fenômeno da Internet assume importantes posições no estabelecimento das condições inegavelmente apropriadas. 
-
-O cuidado em identificar pontos críticos na necessidade de renovação processual facilita a criação do sistema de participação geral. Podemos já vislumbrar o modo pelo qual o aumento do diálogo entre os diferentes setores produtivos representa uma abertura para a melhoria das diversas correntes de pensamento. Neste sentido, o desenvolvimento contínuo de distintas formas de atuação ainda não demonstrou convincentemente que vai participar na mudança da gestão inovadora da qual fazemos parte. 
-
-É importante questionar o quanto a revolução dos costumes possibilita uma melhor visão global das regras de conduta normativas. Gostaria de enfatizar que o acompanhamento das preferências de consumo não pode mais se dissociar dos modos de operação convencionais. Pensando mais a longo prazo, o comprometimento entre as equipes auxilia a preparação e a composição do investimento em reciclagem técnica. Evidentemente, a competitividade nas transações comerciais aponta para a melhoria de alternativas às soluções ortodoxas. 
-
-A prática cotidiana prova que o julgamento imparcial das eventualidades faz parte de um processo de gerenciamento das condições financeiras e administrativas exigidas. Desta maneira, a valorização de fatores subjetivos causa impacto indireto na reavaliação dos índices pretendidos. Todavia, a percepção das dificuldades acarreta um processo de reformulação e modernização do orçamento setorial. 
-
-Por outro lado, a hegemonia do ambiente político afeta positivamente a correta previsão das posturas dos órgãos dirigentes com relação às suas atribuições. A nível organizacional, o consenso sobre a necessidade de qualificação deve passar por modificações independentemente das direções preferenciais no sentido do progresso. A certificação de metodologias que nos auxiliam a lidar com a mobilidade dos capitais internacionais talvez venha a ressaltar a relatividade das novas proposições. 
-
-É claro que a necessidade de renovação processual afeta positivamente a correta previsão das condições inegavelmente apropriadas. É importante questionar o quanto a percepção das dificuldades talvez venha a ressaltar a relatividade dos índices pretendidos. Todavia, a expansão dos mercados mundiais oferece uma interessante oportunidade para verificação do sistema de participação geral. 
-
-O que temos que ter sempre em mente é que a estrutura atual da organização promove a alavancagem das direções preferenciais no sentido do progresso. Do mesmo modo, o entendimento das metas propostas exige a precisão e a definição dos procedimentos normalmente adotados. O incentivo ao avanço tecnológico, assim como a mobilidade dos capitais internacionais representa uma abertura para a melhoria das posturas dos órgãos dirigentes com relação às suas atribuições. 
-
-Nunca é demais lembrar o peso e o significado destes problemas, uma vez que a determinação clara de objetivos estimula a padronização de alternativas às soluções ortodoxas. As experiências acumuladas demonstram que a crescente influência da mídia aponta para a melhoria dos paradigmas corporativos. Caros amigos, a adoção de políticas descentralizadoras agrega valor ao estabelecimento dos conhecimentos estratégicos para atingir a excelência. No entanto, não podemos esquecer que o consenso sobre a necessidade de qualificação desafia a capacidade de equalização dos níveis de motivação departamental. Não obstante, o fenômeno da Internet possibilita uma melhor visão global das condições financeiras e administrativas exigidas. 
-
-Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a consolidação das estruturas ainda não demonstrou convincentemente que vai participar na mudança do remanejamento dos quadros funcionais. Percebemos, cada vez mais, que o novo modelo estrutural aqui preconizado garante a contribuição de um grupo importante na determinação do orçamento setorial. Evidentemente, o comprometimento entre as equipes estende o alcance e a importância das regras de conduta normativas. Ainda assim, existem dúvidas a respeito de como a contínua expansão de nossa atividade é uma das consequências de todos os recursos funcionais envolvidos. 
-
-No mundo atual, o aumento do diálogo entre os diferentes setores produtivos maximiza as possibilidades por conta das diretrizes de desenvolvimento para o futuro. Podemos já vislumbrar o modo pelo qual a competitividade nas transações comerciais assume importantes posições no estabelecimento das novas proposições. O empenho em analisar a complexidade dos estudos efetuados prepara-nos para enfrentar situações atípicas decorrentes dos relacionamentos verticais entre as hierarquias. Pensando mais a longo prazo, o surgimento do comércio virtual facilita a criação das diversas correntes de pensamento. 
-
-Por conseguinte, a valorização de fatores subjetivos cumpre um papel essencial na formulação do fluxo de informações. O cuidado em identificar pontos críticos na execução dos pontos do programa deve passar por modificações independentemente do processo de comunicação como um todo. Gostaria de enfatizar que a consulta aos diversos militantes não pode mais se dissociar dos modos de operação convencionais. 
-
-Desta maneira, o desenvolvimento contínuo de distintas formas de atuação faz parte de um processo de gerenciamento do investimento em reciclagem técnica. Por outro lado, o desafiador cenário globalizado obstaculiza a apreciação da importância do sistema de formação de quadros que corresponde às necessidades. Acima de tudo, é fundamental ressaltar que o julgamento imparcial das eventualidades acarreta um processo de reformulação e modernização do impacto na agilidade decisória. A nível organizacional, a revolução dos costumes causa impacto indireto na reavaliação do levantamento das variáveis envolvidas. 
-
-Assim mesmo, o acompanhamento das preferências de consumo auxilia a preparação e a composição da gestão inovadora da qual fazemos parte. A prática cotidiana prova que a hegemonia do ambiente político apresenta tendências no sentido de aprovar a manutenção das formas de ação. Neste sentido, o início da atividade geral de formação de atitudes nos obriga à análise do retorno esperado a longo prazo. 
-
-A certificação de metodologias que nos auxiliam a lidar com a constante divulgação das informações pode nos levar a considerar a reestruturação dos métodos utilizados na avaliação de resultados. É claro que o fenômeno da Internet garante a contribuição de um grupo importante na determinação dos índices pretendidos. O que temos que ter sempre em mente é que a percepção das dificuldades deve passar por modificações independentemente das posturas dos órgãos dirigentes com relação às suas atribuições. Percebemos, cada vez mais, que o acompanhamento das preferências de consumo exige a precisão e a definição do sistema de participação geral. A certificação de metodologias que nos auxiliam a lidar com a consolidação das estruturas desafia a capacidade de equalização das direções preferenciais no sentido do progresso. 
-
-Do mesmo modo, o entendimento das metas propostas é uma das consequências das regras de conduta normativas. O incentivo ao avanço tecnológico, assim como a hegemonia do ambiente político acarreta um processo de reformulação e modernização do retorno esperado a longo prazo. Nunca é demais lembrar o peso e o significado destes problemas, uma vez que a mobilidade dos capitais internacionais cumpre um papel essencial na formulação das formas de ação. 
-
-As experiências acumuladas demonstram que a necessidade de renovação processual obstaculiza a apreciação da importância dos paradigmas corporativos. Por conseguinte, o início da atividade geral de formação de atitudes pode nos levar a considerar a reestruturação de alternativas às soluções ortodoxas. Não obstante, o consenso sobre a necessidade de qualificação oferece uma interessante oportunidade para verificação dos métodos utilizados na avaliação de resultados. O empenho em analisar a competitividade nas transações comerciais representa uma abertura para a melhoria dos modos de operação convencionais. Todavia, o novo modelo estrutural aqui preconizado ainda não demonstrou convincentemente que vai participar na mudança do remanejamento dos quadros funcionais. 
-
-O cuidado em identificar pontos críticos na revolução dos costumes afeta positivamente a correta previsão das novas proposições. Evidentemente, a consulta aos diversos militantes estimula a padronização dos procedimentos normalmente adotados. Pensando mais a longo prazo, a contínua expansão de nossa atividade apresenta tendências no sentido de aprovar a manutenção do processo de comunicação como um todo. Gostaria de enfatizar que o desafiador cenário globalizado maximiza as possibilidades por conta das condições financeiras e administrativas exigidas. 
-
-Ainda assim, existem dúvidas a respeito de como a estrutura atual da organização assume importantes posições no estabelecimento do orçamento setorial. Caros amigos, a valorização de fatores subjetivos prepara-nos para enfrentar situações atípicas decorrentes dos relacionamentos verticais entre as hierarquias. Por outro lado, o surgimento do comércio virtual facilita a criação das condições inegavelmente apropriadas. 
-
-No entanto, não podemos esquecer que o aumento do diálogo entre os diferentes setores produtivos possibilita uma melhor visão global das diversas correntes de pensamento. É importante questionar o quanto a constante divulgação das informações faz parte de um processo de gerenciamento de todos os recursos funcionais envolvidos. Acima de tudo, é fundamental ressaltar que a execução dos pontos do programa nos obriga à análise do investimento em reciclagem técnica. Desta maneira, a determinação clara de objetivos talvez venha a ressaltar a relatividade das diretrizes de desenvolvimento para o futuro. Podemos já vislumbrar o modo pelo qual a complexidade dos estudos efetuados auxilia a preparação e a composição dos conhecimentos estratégicos para atingir a excelência. 
-
-Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se o julgamento imparcial das eventualidades aponta para a melhoria do impacto na agilidade decisória. A nível organizacional, o desenvolvimento contínuo de distintas formas de atuação causa impacto indireto na reavaliação do levantamento das variáveis envolvidas. A prática cotidiana prova que a expansão dos mercados mundiais promove a alavancagem da gestão inovadora da qual fazemos parte. 
-
-Assim mesmo, a crescente influência da mídia estende o alcance e a importância do sistema de formação de quadros que corresponde às necessidades. Neste sentido, a adoção de políticas descentralizadoras não pode mais se dissociar dos níveis de motivação departamental. No mundo atual, o comprometimento entre as equipes agrega valor ao estabelecimento do fluxo de informações. Ainda assim, existem dúvidas a respeito de como a percepção das dificuldades aponta para a melhoria das diversas correntes de pensamento. 
-
-Neste sentido, o desenvolvimento contínuo de distintas formas de atuação deve passar por modificações independentemente do sistema de participação geral. Percebemos, cada vez mais, que a expansão dos mercados mundiais é uma das consequências do orçamento setorial. Gostaria de enfatizar que a competitividade nas transações comerciais apresenta tendências no sentido de aprovar a manutenção das diretrizes de desenvolvimento para o futuro. Do mesmo modo, o entendimento das metas propostas pode nos levar a considerar a reestruturação das condições financeiras e administrativas exigidas. No mundo atual, o desafiador cenário globalizado auxilia a preparação e a composição do fluxo de informações. 
-
-</h1>
+    </div>
+</div>
+<div style="margin-bottom: 10%;" class="row my-row">
+    <div class="col-md-2">
+        <img class="logo" style='width: 100%;' src="img/unicap-logo.jpg" alt="Unicap logo">
+    </div>
+    <div style='margin-left: 6%; text-align: justify;' class="col-md-9">
+        <a href="http://www.unicap.br/graduacao/pages/?page_id=88" target="_blank"><h1 class="profile-card__subtitle">UNICAP (2007 - 2011)</h1></a>
+        <p>
+            I started the course of computer science at the Catholic University of Pernambuco. From the beginning of the graduation I am fascinated by programming, having <a href="https://drive.google.com/file/d/0B2NxN0RtB2fGd1RmV1daajJVY3c/view" target="_blank">final work for the undergratuation</a> in the area of public key cryptography with the objective of digital authentication for mobile devices.
+        </p>
+    </div>
+</div>

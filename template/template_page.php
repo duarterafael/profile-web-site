@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+    <?php include 'header.php' ?>
     <body>
     <div id="exTab2" class="container">	
     <ul class="nav nav-tabs">
@@ -34,5 +34,4 @@
       </div>
      
       </body>
-      <?php include 'footer.php' ?>
-      
+      <?php include 'footer.php' ?>    
