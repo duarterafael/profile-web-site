@@ -48,7 +48,7 @@ class="footer page-footer font-small stylish-color-dark pt-4 mt-4">
  </div>
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">© 2018 Copyright:
-    <a href=""> Rafael Duarete</a>
+    <a href="http://lattes.cnpq.br/3593363980742428" target="_blank"> Rafael Duarete</a>
   </div>
   <!-- Copyright -->
 
